@@ -1,0 +1,14 @@
+1241b092aa8e41e12df31dbcbc70bca9 *DESCRIPTION
+4fe4b0fe6b6077ec90c2af88531fc145 *NAMESPACE
+54dcbcf92582c71cf83fa5ebe356a07c *R/hybrid_ts.R
+c16d5db4e44842952be99157044d53ff *man/arima_ann.Rd
+ac9a907520f668a307f498787d802633 *man/arima_arnn.Rd
+47e49501848952ebdbf5285c06ef0511 *man/arima_warima.Rd
+67d6d17c3cdbd8bc823e18f64b5147e9 *man/ets_arnn.Rd
+8d8ed863661588c15a04be4d03f7147c *man/rw_ann.Rd
+8f161096268577cdf0e49e36f66311f3 *man/rw_arnn.Rd
+19ea3df7208a4f435723c8842857e4aa *man/summary_hybridts.Rd
+977b48dce24fce0fb4261e80cc81351c *man/theta_ann.Rd
+58dd4bdb31aa22caf6d50b4184679acf *man/theta_arnn.Rd
+e0ef74967273b3b1d54e37542caa88fa *man/warima_ann.Rd
+dfbcf7ecc9e05359ed76066689796ce1 *man/warima_arnn.Rd
